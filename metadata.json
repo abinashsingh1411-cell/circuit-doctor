@@ -1,0 +1,6 @@
+{
+  "name": "CircuitDoctor: Principal Hardware & Embedded Debugger",
+  "description": "Rigorous hardware prototyping and embedded debugging assistant for breadboard wiring, schematics, PCB layouts, and microcontrollers (8051, ARM7 LPC2148, AVR/Arduino, STM32) with zero false-positive electrical rule checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
